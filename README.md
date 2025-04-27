@@ -3,7 +3,7 @@ Instrucciones para restaurar la base de datos
 Paso 1: Descargar el archivo de respaldo de la base de datos
 
 1. Dirígete al siguiente enlace para descargar el archivo de respaldo de la base de datos:  
-   [Descargar base de datos SistemaAcademicoDB.bak](https://drive.google.com/file/d/1gGDrzV6jheawva-PiUgqFfDh_qmjAzRG/view?usp=drive_link)
+   [Descargar base de datos SistemaAcademicoDB.bak](https://drive.google.com/file/d/1gGDrzV6jheawva-PiUgqFfDh_qmjAzRG/view?usp=sharing)
 
 Paso 2: Restaurar la base de datos en SQL Server
 
